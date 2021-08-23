@@ -1,5 +1,5 @@
 
-    const head = `<link rel="stylesheet" href="style.css">` 
+    const head = `<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ZynXI/CompteRebours@main/style.css">` 
     document.querySelector('head').insertAdjacentHTML('afterbegin', head);   
     
     const paradays = `
